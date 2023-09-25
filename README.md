@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Etienne Theunissen</h1>
-<h3 align="center">3rd Year Software Engineering student</h3>
+<h1 align="left">Hi 👋, I'm Etienne Theunissen</h1>
+<h3 align="left">3rd Year Software Engineering student</h3>
 
 <p align="left"> <a href="https://twitter.com/etienne_t_" target="blank"><img src="https://img.shields.io/twitter/follow/etienne_t_?logo=twitter&style=for-the-badge" alt="etienne_t_" /></a> </p>
 
