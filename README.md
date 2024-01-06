@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, HTTP**
 
-- ⚡ Fun fact **I plan on immigrating to Germany**
+- ⚡ Fun fact **I speak German**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
