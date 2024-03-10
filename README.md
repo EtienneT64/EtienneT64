@@ -1,15 +1,12 @@
 <h1 align="left">Hi 👋, I'm Etienne Theunissen</h1>
 <h3 align="left">Software Engineering Intern</h3>
 
-<p align="left"> <a href="https://twitter.com/etienne_t_" target="blank"><img src="https://img.shields.io/twitter/follow/etienne_t_?logo=twitter&style=for-the-badge" alt="etienne_t_" /></a> </p>
-
 - 🌱 I’m currently learning **Angular, Dotnet, Node.js**
 
 - ⚡ Fun fact **I can speak German**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/etienne_t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="etienne_t_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/etienne-t-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etienne theunissen" height="30" width="40" /></a>
 </p>
 
