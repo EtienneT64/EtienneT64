@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Etienne Theunissen</h1>
-<h3 align="left">3rd Year Software Engineering student</h3>
+<h3 align="left">Software Engineering Intern</h3>
 
 <p align="left"> <a href="https://twitter.com/etienne_t_" target="blank"><img src="https://img.shields.io/twitter/follow/etienne_t_?logo=twitter&style=for-the-badge" alt="etienne_t_" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, HTTP**
+- 🌱 I’m currently learning **Angular, Dotnet, Node.js**
 
 - ⚡ Fun fact **I can speak German**
 
