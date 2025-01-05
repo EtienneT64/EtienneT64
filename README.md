@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Etienne Theunissen</h1>
+<h1 align="left">Hi 👋, I'm Etienne</h1>
 <h3 align="left">Software Developer</h3>
 
 - 🌱 I’m currently learning **Next.js, .NET, Python, C++**
